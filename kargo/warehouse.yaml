@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/joncakEMB/guestbook
+      repoURL: ghcr.io/joncakemb/guestbook
       imageSelectionStrategy: SemVer
